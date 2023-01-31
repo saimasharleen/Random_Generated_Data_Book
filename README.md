@@ -8,7 +8,7 @@
 <div align="center">
 
 
-  <h3 align="center">Book-Data-Generator</h3>
+  <h3 align="center">Random-Book-Data-Generator</h3>
 
   <p align="center">This project is a part of making a system that suggests queries. Here, we mostly worked on making the data set that will be   used in the project.
     <br />
